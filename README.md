@@ -9,10 +9,10 @@ The content is designed to be simple, practical, and beginner-friendly, with cle
 
 👉 Start here: Begin with the 3-Layer IoT Architecture section to build a strong foundation. It covers the fundamental layers of IoT (which form the base for advanced 4, 5, and 7-layer models), along with diagrams for better understanding and interview questions to support entry-level job preparation.
 
-Explore the [3-Layer IoT Architecture](./3-layer-architecture/) section to understand the basic foundation of IoT.
+Explore the [3-Layer IoT Architecture](https://github.com/glory-violet/IoT-Series-/blob/main/IoT%203%20Layer%20Architecture/README.md) section to understand the basic foundation of IoT.
 
 It includes:
 - 📘 Simple explanation of Perception, Network, and Application layers  
 - 📊 Diagram to clearly visualize the data flow  
-- ❓ [Interview Questions & Answers](./3-layer-architecture/interview-questions.md) for preparation  
+- ❓ [Interview Questions & Answers](https://github.com/glory-violet/IoT-Series-/blob/main/IoT%203%20Layer%20Architecture/FAQs.md) for preparation  
 - 🛠️ Beginner-friendly insights for entry-level IoT roles  
