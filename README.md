@@ -5,7 +5,7 @@ This repository is a structured IoT learning series focused on understanding cor
 The content is designed to be simple, practical, and beginner-friendly, with clear explanations, diagrams, and interview-focused questions. This repository also reflects a continuous learning journey, with new topics and improvements added over time.
 
 
-## 👉 Foundation First: Understanding IoT through 3 Layers Architecture
+## Foundation First: Understanding IoT through 3 Layers Architecture
 
 👉 Start here: Begin with the 3-Layer IoT Architecture section to build a strong foundation. It covers the fundamental layers of IoT (which form the base for advanced 4, 5, and 7-layer models), along with diagrams for better understanding and interview questions to support entry-level job preparation.
 
